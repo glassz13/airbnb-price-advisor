@@ -1,6 +1,6 @@
-# Airbnb Price Advisor — NYC
+# Airbnb Price Advisor — New York
 
-> Data-driven nightly price recommendations for Airbnb hosts using an XGBoost + Neural Network ensemble, trained on 14,000+ NYC listings.
+> Data-driven nightly price recommendations for Airbnb hosts using an XGBoost + Neural Network ensemble, trained on 14,000+ New York listings.
 
 Live App: [airbnb-price-advisor.streamlit.app](#) ← paste your URL here
 
