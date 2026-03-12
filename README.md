@@ -2,7 +2,7 @@
 
 > Data-driven nightly price recommendations for Airbnb hosts using an XGBoost + Neural Network ensemble, trained on 14,000+ New York listings.
 
-Live App: [airbnb-price-advisor.streamlit.app](#) ← paste your URL here
+Live App: [https://airbnb-price-advisor-5f7entbs7ik4qvyxy6jt4y.streamlit.app/](#) ← paste your URL here
 
 ---
 
